@@ -40,30 +40,10 @@ I'm a **Data Analyst** with a background in **Business Intelligence**, passionat
 
 </div>
 
-<br/>
 
-## 📈 GitHub Stats
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rehamessa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2ecc71&icon_color=2ecc71&text_color=ffffff" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rehamessa&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2ecc71&fire=2ecc71&currStreakLabel=2ecc71" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehamessa&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2ecc71&text_color=ffffff" width="48%"/>
-
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rehamessa&theme=algolia&no-frame=true&column=6&margin-w=8&row=1" width="100%"/>
-
-</div>
-
-<br/>
 
 ## 📬 Let's Connect
 
