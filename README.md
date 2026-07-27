@@ -33,7 +33,7 @@ I'm a **Data Analyst** with a background in **Business Intelligence**, passionat
 ![DAX](https://img.shields.io/badge/DAX-27ae60?style=for-the-badge&logoColor=white)
 ![Power Query](https://img.shields.io/badge/POWER%20QUERY-1e8449?style=for-the-badge&logoColor=white)
 ![Excel](https://img.shields.io/badge/EXCEL-196f3d?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Tableau](https://img.shields.io/badge/TABLEAU-145a32?style=for-the-badge&logo=tableau&logoColor=white)
+
 ![SQL Server](https://img.shields.io/badge/SQL%20SERVER-0e6251?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-117864?style=for-the-badge&logo=python&logoColor=white)
 ![Statistics](https://img.shields.io/badge/STATISTICS-0b5345?style=for-the-badge&logoColor=white)
