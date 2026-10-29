@@ -21,25 +21,7 @@ I started on the reporting layer and kept moving down the stack, because most wr
 
 **Microsoft Certified** in Power BI (PL-300) and Fabric Data Engineering (DP-700).
 
-<br/>
 
-## 🚀 Featured Projects
-
-### 📺 [YouTube Channel Analytics Platform](https://github.com/rehamessa/youtube-etl-pipeline)
-`Python` `Airflow` `Docker` `PostgreSQL` `Soda` `GitHub Actions` `Power BI`
-
-An automated pipeline that pulls daily video and engagement data from the YouTube Data API into a PostgreSQL warehouse, orchestrated by 4 Airflow DAGs in Docker. Points at any channel by changing one config variable, with Soda checks and CI/CD keeping the daily numbers honest.
-
-> **Finding:** total views grew **14%**, while views *per video* fell **26%** as upload frequency rose. More content was not more reach. Across 283M+ views, 20+ minute videos drew **2×** the views, and Arabic title topics were clustered with TF-IDF + KMeans to compare reach by subject.
-
-### 🛒 Retail Sales & Customer Analytics
-`SQL Server` `T-SQL` `Power BI` `DAX`
-
-A Medallion architecture in SQL Server over 18 months of data from 40 branches. 11 logged data quality issues were fixed in T-SQL clean views so every figure reconciles to source. Star schema, RFM segmentation, cohort retention, like-for-like growth, and promotion uplift against a 28-day baseline, with region-level RLS in Power BI.
-
-> **Finding:** the headline growth of **+11.5%** was only **+5.9%** in comparable stores. New branches were flattering the total. **12%** of customers drive **28%** of sales.
-
-<br/>
 
 ## 🧠 How I Work
 
